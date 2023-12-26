@@ -1,4 +1,4 @@
-> # This is a project created through Jeonny-BoilerPlate. <br/>(Jeonny-BoilerPlate를 통해 생성된 프로젝트입니다.)
+> # This is a project created through Jeonny-BoilerPlate. <br/>(Jeonny-BoilerPlate를 통해 생성된 프로젝트입니다)
  
 # Jeonny-BoilerPlate
 - Initial setup of React + Typescript development environment using vite. <br/>(vite를 활용해 React + Typescript 개발 환경을 초기 설정합니다.)
