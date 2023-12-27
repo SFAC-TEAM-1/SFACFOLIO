@@ -1,3 +1,26 @@
 .mypage {
-    
+    border: 1px solid tomato;
+    display: flex;
+    justify-content: center;
+    width: 80vw;
+    margin: auto;
+    height: 60vh;
+    border-radius: 2rem;
+}
+.mypageContainer {
+    background-color: tomato;
+    width: 80vw;
+    padding: 2rem;
+    font-size: 2rem;
+    border-radius: 0 2rem 2rem 0;
+
+
+}
+.mypageAside {
+    background-color: skyblue;
+    width: 20vw;
+    padding: 2rem;
+    font-size: 2rem;
+    border-radius: 2rem 0 0 2rem;
+
 }
